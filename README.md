@@ -62,14 +62,20 @@ e.g. `$ git clone https://github.com/Div685/Salon-Appointments.git`
 2. Then, you'll see the admin page.
 > Note: There is no admin User for now in the database therefore, you will not be able to login or create an admin. I will surely add an admin panel in the coming future. The above description about the Admin user is to give you the idea and the knowledge about the admin user and its role.
 
-
 ## Author
 
-👤 **Divyesh Patel**
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel/)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to connect anytime
 
 
 ## Contributing
